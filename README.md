@@ -1,5 +1,7 @@
 # Shucks' Root Run
 
+<img width="1024" height="683" alt="spashwork" src="https://github.com/user-attachments/assets/c6111e63-1f38-454c-b8ba-cfb98fdcbd8e" />
+
 **An interactive Linux certification trainer disguised as a cyberpunk infiltration game.**
 
 A browser-based learning platform that teaches the Linux Professional Institute (LPI)
@@ -7,10 +9,10 @@ certification syllabus through a simulated shell. Every level is a real terminal
 sandboxed box, every level hides a key, and every key is reachable only by actually
 knowing the commands.
 
-Think [OverTheWire](https://overthewire.org) or Hack The Box — but with a story, a cast,
+Think [OverTheWire]or Hack The Box — but with a story, a cast,
 and a syllabus that leads to a real certification.
 
-![Neon Tundra splash art](assets/spashwork.jpg)
+<img width="1901" height="944" alt="Screenshot 2026-10-29 210800" src="https://github.com/user-attachments/assets/3df47b1f-2991-4e10-827f-1fbe693bb5b3" />
 
 ---
 
@@ -199,6 +201,8 @@ what its exact error text is, and which edge cases the exam targets.**
 - POSIX regular expressions and the BRE/ERE distinction
 - The LPI Linux Essentials and LPIC-1 objective domains in depth
 
+  <img width="1901" height="953" alt="Screenshot 2026-10-29 210819" src="https://github.com/user-attachments/assets/f95e14c0-bfb5-4f44-b181-43e8d3375040" />
+
 ### Software engineering
 
 - **Language implementation** — tokenizer, parser and evaluator for a shell grammar with
@@ -232,6 +236,8 @@ The part of this project I would most want to be asked about.
   regions for terminal output
 - A print stylesheet so learners can print the reference cards as physical study aids
 
+  <img width="401" height="729" alt="Screenshot 2026-10-29 210844" src="https://github.com/user-attachments/assets/f7c796fa-39f4-47c0-b742-c1338e943e50" />
+
 ### Instructional design
 
 - Mapping every piece of content to a **published certification objective**
@@ -239,6 +245,9 @@ The part of this project I would most want to be asked about.
 - A **tiered hint system** that supports a stuck learner without removing the exercise
 - Designing failure states that teach: error messages are written to tell the learner
   which concept they have actually hit
+
+  
+<img width="888" height="332" alt="Screenshot 2026-10-29 210859" src="https://github.com/user-attachments/assets/d496db39-4d58-454a-9515-86469cd4073e" />
 
 ### Technical writing
 
@@ -252,10 +261,12 @@ The part of this project I would most want to be asked about.
 
 No installation required.
 
-```bash
-git clone <repository-url>
-cd <repository-folder>
-```
+
+
+<img width="807" height="802" alt="Screenshot 2026-10-29 210912" src="https://github.com/user-attachments/assets/22baa921-adb6-44b2-84d1-c7cfc6ef92d1" />
+
+
+
 
 Then open `index.html` in any modern browser — or serve the folder if you prefer:
 
